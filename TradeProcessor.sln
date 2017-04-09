@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeProcessorServices", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeData", "TradeData\TradeData.csproj", "{BE951302-788E-4EDB-AB77-284D571323AD}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{A0EED02A-B6A8-4F30-A444-EFC2DD79C8EB}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeProcessorServicesTest", "TradeProcessorServicesTest\TradeProcessorServicesTest.csproj", "{1B63BFF9-754C-4B1E-9C1F-41CA905F5E29}"
 EndProject
 Global
