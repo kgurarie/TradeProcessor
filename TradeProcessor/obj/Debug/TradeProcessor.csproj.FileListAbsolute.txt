@@ -1,0 +1,17 @@
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessor\obj\Debug\TradeProcessor.csprojResolveAssemblyReference.cache
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessor\bin\Debug\NLog.config
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessor\bin\Debug\TradeProcessor.exe.config
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessor\bin\Debug\TradeProcessor.exe
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessor\bin\Debug\TradeProcessor.pdb
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessor\bin\Debug\Autofac.dll
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessor\bin\Debug\Castle.Core.dll
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessor\bin\Debug\NLog.dll
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessor\bin\Debug\TradeData.dll
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessor\bin\Debug\TradeProcessorServices.dll
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessor\bin\Debug\TradeData.pdb
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessor\bin\Debug\TradeProcessorServices.pdb
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessor\bin\Debug\Autofac.xml
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessor\bin\Debug\Castle.Core.xml
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessor\bin\Debug\NLog.xml
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessor\obj\Debug\TradeProcessor.exe
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessor\obj\Debug\TradeProcessor.pdb

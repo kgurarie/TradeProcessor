@@ -1,0 +1,6 @@
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeData\bin\Debug\TradeData.dll
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeData\bin\Debug\TradeData.pdb
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeData\bin\Debug\Autofac.dll
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeData\bin\Debug\Autofac.xml
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeData\obj\Debug\TradeData.dll
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeData\obj\Debug\TradeData.pdb

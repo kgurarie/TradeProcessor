@@ -1,0 +1,12 @@
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessorService\obj\Debug\TradeProcessorServices.csprojResolveAssemblyReference.cache
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessorService\bin\Debug\NLog.config
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessorService\bin\Debug\TradeProcessorServices.dll
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessorService\bin\Debug\TradeProcessorServices.pdb
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessorService\bin\Debug\Autofac.dll
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessorService\bin\Debug\NLog.dll
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessorService\bin\Debug\TradeData.dll
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessorService\bin\Debug\TradeData.pdb
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessorService\bin\Debug\Autofac.xml
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessorService\bin\Debug\NLog.xml
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessorService\obj\Debug\TradeProcessorServices.dll
+C:\Karina\Projects\RateMyAgent\TradeProcessor\TradeProcessorService\obj\Debug\TradeProcessorServices.pdb
